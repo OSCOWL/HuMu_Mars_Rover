@@ -1,4 +1,5 @@
 # HuMu_Mars_Rover
+![Screenshot 2024-02-05 173408](https://github.com/OSCOWL/HuMu_Mars_Rover/assets/91824434/19a41819-107b-4bb2-8250-e181dca1ac55)
 
 Welcome to the HuMu Rover project repository! This project represents a groundbreaking endeavor in the field of planetary exploration, integrating advanced humanoid robotics, artificial intelligence, and sensor technologies to explore the potential habitability of other planets.
 
